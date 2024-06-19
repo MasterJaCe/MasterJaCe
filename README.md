@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @MasterJaCe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... Sir/Master
+- 👀 I’m interested in cyber security, software developtment  
+- 🌱 I’m currently learning Self independent Software security.
+- 💞️ I’m looking to collaborate on Exploring the digital world. 
+- 📫 How to reach me Via Inbox on Github
+- 😄 Pronouns: ... HE/Him
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Sign language is my first language. 
 
 <!---
 MasterJaCe/MasterJaCe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
